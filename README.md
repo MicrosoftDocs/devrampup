@@ -82,7 +82,7 @@ This guide contains many ways to learn from Learn modules on aka.ms/learn to vid
 
 - [Java for Beginners](https://aka.ms/javaforbeginners) Videos series for Java for beginners.
 
-- [Java for beginners, VIDEO](<https://www.youtube.com/watch?v=6DwfzBOnyBI&list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM) Beginner video series to learn Java.
+- [Java for beginners, VIDEO](https://www.youtube.com/watch?v=6DwfzBOnyBI&list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM) Beginner video series to learn Java.
 
 **App development**
 
