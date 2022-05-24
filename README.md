@@ -15,6 +15,10 @@ This guide contains many ways to learn from Learn modules on aka.ms/learn to vid
 
 **App development**
 
+- [.NET videos, VIDEO](https://dotnet.microsoft.com/en-us/learn/videos)
+
+- [ASP .NET series, VIDEO](https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy)
+
 - [Build .NET applications](https://docs.microsoft.com/en-us/learn/paths/build-dotnet-applications-csharp/) A learning path covering various aspects of using .NET for app development
 - [Build your first Web API](https://docs.microsoft.com/en-us/learn/paths/aspnet-core-minimal-api/) Beginner friendly learning path teaching you how to build an API for the web in 5 lines of code or less.
 - [Adding a data store to your App with Entity Framework](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/) Your app needs to store the data somewhere, an ORM, Object relational mapper makes interaction with a database easier
@@ -33,10 +37,18 @@ This guide contains many ways to learn from Learn modules on aka.ms/learn to vid
 
 - [Build JavaScript applications with Node.js](<https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/>) Contains a learning path to learn Node.js from the beginning 
 
+- [JavaScript for beginners, VIDEO](https://www.youtube.com/watch?v=_EDM5aPVLmo&list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) Start here to learn JavaScript with this video series.
+
+- [Node.js series, VIDEO](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) Video series teaching you Node.js.
+
 **App development**
 
 - [Build a Node.js app with Cosmos DB as a data source](<https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/>) All apps need a data source. Azure CosmosDB has a great grow up story. You start with a MongoDB database locally and then you can use that as Azure Cosmos DB speaks the same API.
 - [Build Serverless APIs with Azure functions](<https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/>) Event based architecture is a new paradigm. 
+
+- [Azure Static Web apps series, VIDEO](https://www.youtube.com/watch?v=w-tLZjO6XMc&list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1V) This video series will teach you how to develop apps and deploy them on Azure using Azure Static Web Apps.
+
+- [Vue.js for beginners, VIDEO](https://www.youtube.com/watch?v=LnngsOg014Y&list=PLlrxD0HtieHh33qHLWEN9uv43ie17lYqA) In this video series, you will be taught to build web apps using Vue.js.
 
 **In production**
 
@@ -49,6 +61,7 @@ This guide contains many ways to learn from Learn modules on aka.ms/learn to vid
 **Ramp up**
 
 - [Python for beginners](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) This teaches Python as a language. Most modules in this path is using Notebooks which makes for a great learning experience where you can learn and type, all in the browser.
+- [Python for beginners, VIDEO](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) 44 videos teaching you the fundamentals of Python. 
  
 **App development**
 
@@ -68,6 +81,8 @@ This guide contains many ways to learn from Learn modules on aka.ms/learn to vid
 **Ramp up**
 
 - [Java for Beginners](https://aka.ms/javaforbeginners) Videos series for Java for beginners.
+
+- [Java for beginners, VIDEO](<https://www.youtube.com/watch?v=6DwfzBOnyBI&list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM) Beginner video series to learn Java.
 
 **App development**
 
