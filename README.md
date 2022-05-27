@@ -6,7 +6,7 @@ This guide is looking to take you from "zero to hero". Jump into your learning j
 
 This guide contains many ways to learn from Learn modules on [aka.ms/learn](https://aka.ms/learn?WT.mc_id=academic-68038-chnoring) to videos - choose what suits you. :)
 
-![image of the skills navigator](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375359iD72234ED6EF6671E/image-size/large%3Fv%3Dv2%26px%3D999)
+![image of the skills navigator](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375359iD72234ED6EF6671E/image-size/large?v=v2&px=999)
 
 ## .NET Development with C#
 
