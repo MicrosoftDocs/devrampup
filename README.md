@@ -1,4 +1,4 @@
-# The New Developer's Guide to the Cloud
+# Azure skills navigator - the new developer's "Guide to the Cloud"
 
 Looking to develop your Microsoft knowledge and skills? You’re on the right path!
 
