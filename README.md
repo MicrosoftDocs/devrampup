@@ -8,6 +8,8 @@ This guide contains many ways to learn from Learn modules on [aka.ms/learn](http
 
 ![image of the skills navigator](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375359iD72234ED6EF6671E/image-size/large?v=v2&px=999)
 
+> The [PDF guide](http://aka.ms/devskillingguide)
+
 ## .NET Development with C#
 
 **Ramp up**
